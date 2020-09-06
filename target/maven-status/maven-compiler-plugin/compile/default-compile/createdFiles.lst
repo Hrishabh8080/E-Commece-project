@@ -1,0 +1,12 @@
+com\myshop\servlet\logoutServlet.class
+com\myshop\servlet\productionOperationServlet.class
+com\myshop\dao\CategoryDao.class
+com\myshop\dao\UserDao.class
+com\myshop\entities\User.class
+com\myshop\servlet\loginServlet.class
+com\myshop\entities\Category.class
+com\myshop\helper\FactoryProvider.class
+com\myshop\servlet\registerServlet.class
+com\myshop\helper\Helper.class
+com\myshop\entities\Product.class
+com\myshop\dao\ProductDao.class
